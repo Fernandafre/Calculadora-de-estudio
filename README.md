@@ -12,7 +12,7 @@ El objetivo es ofrecer una herramienta para que los estudiantes puedan **organiz
 
 ---
 
-## 🚀 Características principales  
+## Características principales  
 
 - Registro de materias con dificultad y entregas próximas.  
 - Horarios disponibles por día de la semana en rangos (ejemplo: `9-12`).  
@@ -24,14 +24,14 @@ El objetivo es ofrecer una herramienta para que los estudiantes puedan **organiz
 
 ---
 
-## 🛠️ Tecnologías utilizadas  
+##  Tecnologías utilizadas  
 
 - **Lenguaje:** Python 3.x  
 - **Librerías estándar:**  
   - `datetime` para manejo de fechas.  
   - `collections.defaultdict` para organizar horarios.
  
-▶️ Ejecución
+1. Ejecución
 
 Ejecutar el programa en la terminal:
 
@@ -50,7 +50,7 @@ Nivel de energía por hora.
 
 Al finalizar, mostrará un plan de estudio sugerido por día.
 
-📊 Ejemplo de salida
+Ejemplo de salida
 Lunes:
   9:00 - Matemáticas
   10:00 - Física
@@ -59,7 +59,7 @@ Martes:
   8:00 - Programación
   9:00 - Programación
 
-👥 Equipo de trabajo
+2. Equipo de trabajo
 
 María Fernanda Afre Córdova – 251355
 
@@ -67,7 +67,7 @@ Laura Gabriela Sandoval Palma – 251409
 
 María Alejandra Afre Córdova – 251359
 
-📌 Futuras mejoras
+3. Futuras mejoras
 
 Exportar plan de estudio en PDF.
 
@@ -75,6 +75,6 @@ Integración con Google Calendar.
 
 Simplificar registro de energía en bloques (mañana/tarde/noche).
 
-📄 Licencia
+4. Licencia
 
 Este proyecto es académico y de uso educativo.

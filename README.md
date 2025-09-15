@@ -30,6 +30,7 @@ El objetivo es ofrecer una herramienta para que los estudiantes puedan **organiz
 - **Librerías estándar:**  
   - `datetime` para manejo de fechas.  
   - `collections.defaultdict` para organizar horarios.
+---
  
 1. Ejecución
 
@@ -59,6 +60,8 @@ Martes:
   8:00 - Programación
   9:00 - Programación
 
+---
+
 2. Equipo de trabajo
 
 María Fernanda Afre Córdova – 251355
@@ -67,6 +70,8 @@ Laura Gabriela Sandoval Palma – 251409
 
 María Alejandra Afre Córdova – 251359
 
+---
+
 3. Futuras mejoras
 
 Exportar plan de estudio en PDF.
@@ -74,6 +79,8 @@ Exportar plan de estudio en PDF.
 Integración con Google Calendar.
 
 Simplificar registro de energía en bloques (mañana/tarde/noche).
+
+---
 
 4. Licencia
 
